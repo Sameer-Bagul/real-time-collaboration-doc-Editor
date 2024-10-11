@@ -1,6 +1,4 @@
-Here's a sample `README.md` for your **Real-Time Collaboration Document Editor** project:
 
-```md
 # Real-Time Collaboration Document Editor
 
 A real-time collaborative document editor built with modern web technologies that allows multiple users to edit documents simultaneously, with changes reflected in real time.
@@ -39,7 +37,7 @@ A real-time collaborative document editor built with modern web technologies tha
    ```bash
    git clone https://github.com/your-username/real-time-collaboration-doc-editor.git
    cd real-time-collaboration-doc-editor
-   ```
+   
 
 2. **Install Dependencies:**
 
