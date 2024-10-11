@@ -114,10 +114,3 @@ A real-time collaborative document editor built with modern web technologies tha
 - 🖇️ **Third-Party Integrations**: Integrate with Google Drive, Dropbox, etc.
 - 📧 **Email Notifications**: Notify users of document updates via email.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-```
-
-This `README.md` file provides a comprehensive overview of the project, including features, installation instructions, usage details, and future improvement ideas.
